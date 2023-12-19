@@ -1,0 +1,10 @@
+{
+  "name": "Home",
+  "description": "From the Onshot soundtrack.",
+  "author": "Listy12408",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
